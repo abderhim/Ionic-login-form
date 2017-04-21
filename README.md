@@ -7,7 +7,7 @@ Example design layout/form of mobile application with ionic 2 & Bootstrap
 git clone https://github.com/marcoamodio/Ionic-login-form.git
 ```
 
-2. navigate ed enter into:
+2. navigate and enter into:
 ```
 cd Ionic-login-form
 ```
